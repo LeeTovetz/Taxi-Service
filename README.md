@@ -42,4 +42,4 @@ This project is the implementation of online service for internal usage of taxi 
 6. Run a project
 "# Taxi-service" 
 
-https://github.com/glebd/scala-course
+https://github.com/latkova/Taxi-service
